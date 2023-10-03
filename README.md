@@ -1,6 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39683B&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A3A3A3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39683B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Xavier;I'm+16+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A3A3A3&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Pedro+Xavier;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 
 ## 
@@ -21,5 +22,6 @@
   <a href = "mailto:cttpedroxavier@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   
 </div>
+
 
  
