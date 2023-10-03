@@ -16,3 +16,10 @@
   <a href = "mailto:cttpedroxavier@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![Snake animation](https://github.com/pedro-henrique-xavier/pedro-henrique-xavier/blob/output/github-contribution-grid-snake.svg)
+
+
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=pedro-henrique-xavier&repo=pedro-henrique-xavier&theme=react)](https://github.com/pedro-henrique-xavier/pedro-henrique-xavier)
+ 
