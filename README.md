@@ -1,4 +1,4 @@
-
+<img src="https://i.pinimg.com/originals/f5/87/f5/f587f580bbd66eccb959d9a4c7e367ce.gif">
 <div align="center">  
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedro-henrique-xavier&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" alt="pedro-henrique-xavier github stats" /> 
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique-xavier&layout=compact&hide_border=true&title_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" />
